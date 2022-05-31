@@ -7,6 +7,9 @@ I'm Calvin Lai
 - 🤔 I’m an actual Noobgrammer
 - 📫 How to reach me: Find My Discord
 - ⚡ Fun fact: Programming is Fun
+
+## Role Model
+- Jason Kuan: https://github.com/KJHJason
 <!--
 **klevinn/klevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
