@@ -1,5 +1,12 @@
 # Hi there 👋
 
+I'm Calvin Lai
+
+- 🔭 I’m currently working on an App Security Project and a Data Structures & Algorithm Project
+- 🌱 I’m currently learning Cybersecurity & Digital Forensics in Nanyang Polytechnic
+- 🤔 I’m an actual Noobgrammer
+- 📫 How to reach me: Find My Discord
+- ⚡ Fun fact: Programming is Fun
 <!--
 **klevinn/klevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
