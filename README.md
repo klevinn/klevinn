@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 - LOLCODE
 
 ## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox)
 
 ## Socials
