@@ -1,9 +1,7 @@
 # KonnichiHello <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/>
 
 <div align="center">
-   <a href="https://plancke.io/hypixel/player/stats/underwearbrand" >
-    <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/klevinn/klevinn/blob/master/assets/banner.gif">
-  </a>
+  <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/klevinn/klevinn/blob/master/assets/banner.gif">
   <p>ネトゲの嫁は女の子じゃないと思った?</p>
   <p>Its true</p>
 </div>
@@ -37,12 +35,12 @@
 - 🌱 App Security Project
 - 🌱 CodeForces, CodeWars, LeetCode
 
-### Learning:
+#### Learning:
 - 🤔SQL (MySQL / sqlite)
 - 🤔C++
 - 🤔LOLCODE
 
-### Role Model
+#### Role Model
 - <a href="https://github.com/KJHJason">Jason Kuan (mutual)</a>
 
 # Skills & Experience <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/>
@@ -77,6 +75,7 @@
 
 <br>
 
+###
 <p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox" alt="klevinn's github stats"></a>
 </p>
