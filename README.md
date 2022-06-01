@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - LOLCODE
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klevinn$count_private=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox)
 
 ## Socials
 [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/calvin-lai-671971225/)
