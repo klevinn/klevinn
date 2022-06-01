@@ -54,14 +54,28 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
 
+</p>
+<p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klevinn&layout=compact&theme=dark&hide=html" alt="klevinn's top languages"></a>
-
 </p>
 
-## Socials
-[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/calvin-lai-671971225/)
+# Socials <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>
 
-## Github Stats
+## Use these to Contact me for anything!
+
+<div align="center">
+  <img src="https://github.com/klevinn/klevinn/blob/main/assets/calling.gif" align="right">
+</div>
+
+<p align="center">
+  [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo' height='40'>](https://www.linkedin.com/in/calvin-lai-671971225/)
+  [<img src='https://img.shields.io/badge/Aimaweeaboo_-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit logo' height='40'>]()
+  [<img src='https://img.shields.io/badge/%3C@noisy#6969%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white' alt='discord logo' height='40'>]()
+  [<img src='https://img.shields.io/badge/@woyaochibingqiling-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram logo' height='40'>]()
+  [<img src='https://img.shields.io/badge/@mrweeaboo_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter logo' height='40'>]()
+  <br>
+</p>
+
 <p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox" alt="klevinn's github stats"></a>
 </p>
