@@ -10,13 +10,13 @@
 
 # About Me <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/>
 
-## I'm Calvin Lai, a Cybersecurity & Digital Forensincs Student from Singapore
+### I'm Calvin Lai, a Cybersecurity & Digital Forensincs Student from Singapore
 
 <div align="center">
   <img src="https://github.com/klevinn/klevinn/blob/main/assets/profile.gif" align="right">
 </div>
 
-### About Me
+#### About Me
 - <a style="color:white;" href="https://codeforces.com/profile/klevinn">⚡ Actual Noobgrammer</a>
 - <a style="color:white;" href="https://steamcommunity.com/id/kirisakibestgirl/">⚡ Gamer</a>
 - <a style="color:white;" href="https://myanimelist.net/profile/klevinn">⚡ Manga Stan (Manga > Anime)</a>
@@ -24,7 +24,7 @@
 - ⚡ Baller 🏀 
 - ⚡ Charlotte Hornets FTW (Lamelo W)
 
-### Hobbies
+#### Hobbies
 - 😂 Watching Anime
 - 😂 Reading Manga, Light Novels
 - 😂 Listening to Music
@@ -32,7 +32,7 @@
 - 😂 RPG Games, e.g. Ni No Kuni
 - 😂 Balling 🏀
 
-### Currently Working On:
+#### Currently Working On:
 - 🌱 Data Structure & Algorithm Project
 - 🌱 App Security Project
 - 🌱 CodeForces, CodeWars, LeetCode
@@ -61,7 +61,7 @@
 
 # Socials <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>
 
-## Use these to Contact me for anything!
+### Use these to Contact me for anything!
 
 <div align="center">
   <img src="https://github.com/klevinn/klevinn/blob/main/assets/calling.gif" align="right">
@@ -74,6 +74,8 @@
   <a href="#" target="_blank"><img src='https://img.shields.io/badge/@woyaochibingqiling-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram logo' height='40'></a>
   <a href="#" target="_blank"><img src='https://img.shields.io/badge/@mrweeaboo_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter logo' height='40'></a>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox" alt="klevinn's github stats"></a>
