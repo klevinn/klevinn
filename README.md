@@ -1,7 +1,7 @@
 # KonnichiHello <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/>
 
 <div align="center">
-  <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif">
+  <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/klevinn/klevinn/blob/main/assets/banner.gif">
   <p>ネトゲの嫁は女の子じゃないと思った?</p>
   <p>Its true</p>
 </div>
