@@ -1,7 +1,7 @@
 # KonnichiHello <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/>
 
 <div align="center">
-  <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/banner.webp">
+  <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/klevinn/klevinn/blob/master/assets/banner.webp">
 </div>
 I'm Calvin Lai
 
