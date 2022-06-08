@@ -62,16 +62,15 @@
 ### Use these to Contact me for anything!
 
 <div align="center">
+  <p align="left">
+    <a href="https://www.linkedin.com/in/calvin-lai-671971225/" target="_blank"> <img src='https://img.shields.io/badge/CalvinLai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo' height='40'></a>
+    <a href="https://www.reddit.com/user/imaweeaboo_" target="_blank"><img src='https://img.shields.io/badge/@imaweeaboo_-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit logo' height='40'></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/@noisy%236969%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt = "discord" height=40/></a>
+    <a href="#" target="_blank"><img src='https://img.shields.io/badge/@woyaochibingqiling-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram logo' height='40'></a>
+    <a href="#" target="_blank"><img src='https://img.shields.io/badge/@mrweeaboo_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter logo' height='40'></a>
+  </p>
   <img src="https://github.com/klevinn/klevinn/blob/main/assets/calling.gif" align="right">
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/calvin-lai-671971225/" target="_blank"> <img src='https://img.shields.io/badge/CalvinLai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'></a>
-  <a href="https://www.reddit.com/user/imaweeaboo_" target="_blank"><img src='https://img.shields.io/badge/@imaweeaboo_-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit logo'></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/@noisy#6969%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt = "discord"/></a>
-  <a href="#" target="_blank"><img src='https://img.shields.io/badge/@woyaochibingqiling-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram logo'></a>
-  <a href="#" target="_blank"><img src='https://img.shields.io/badge/@mrweeaboo_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter logo'></a>
-</p>
 
 <br>
 
