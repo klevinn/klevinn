@@ -31,7 +31,6 @@
 - 😂 Balling 🏀
 
 #### Currently Working On:
-- 🌱 Data Structure & Algorithm Project
 - 🌱 App Security Project
 - 🌱 CodeForces, CodeWars, LeetCode
 
