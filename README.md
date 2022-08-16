@@ -1,12 +1,6 @@
-# KonnichiHello <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/>
+# Hello <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/>
 
-<div align="center">
-  <img hight="300" width="700" alt="Banner GIF" align="center" src="https://github.com/klevinn/klevinn/blob/main/assets/banner.gif">
-  <p>ネトゲの嫁は女の子じゃないと思った?</p>
-  <p>Its true</p>
-</div>
-
-# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
+## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
 ### I'm Calvin Lai, a Cybersecurity & Digital Forensincs Student from Singapore
 
@@ -42,7 +36,7 @@
 #### Role Model
 - <a href="https://github.com/KJHJason">Jason Kuan (mutual)</a>
 
-# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Skills & Experience
+## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Skills & Experience
 
 <div align="center">
   <img src="https://github.com/klevinn/klevinn/blob/main/assets/coding.gif" align="right">
@@ -56,7 +50,7 @@
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klevinn&layout=compact&theme=dark&hide=html" alt="klevinn's top languages"></a>
 </p>
 
-# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>  Socials
+## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>  Socials
 
 ### Use these to Contact me for anything!
 
@@ -73,7 +67,7 @@
 
 <br>
 
-#
+##
 <p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox" alt="klevinn's github stats"></a>
 </p>
