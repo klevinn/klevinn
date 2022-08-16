@@ -1,4 +1,4 @@
-# Hello <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/>
+# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/> Hello 
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
