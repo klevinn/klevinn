@@ -20,12 +20,11 @@
 - 😂 Watching Anime
 - 😂 Reading Manga, Light Novels
 - 😂 Listening to Music
-- 😂 Rythm Games, e.g. osu!
-- 😂 RPG Games, e.g. Ni No Kuni
+- 😂 Rythm Games
+- 😂 RPG Games
 - 😂 Balling 🏀
 
 #### Currently Working On:
-- 🌱 App Security Project
 - 🌱 CodeForces, CodeWars, LeetCode
 
 #### Learning:
