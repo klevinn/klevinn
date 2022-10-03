@@ -1,8 +1,16 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellooo!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+Calvin's+Profile!!;Cybersecurity+%26+Digital+Forensics+Student;Always+Learning;Contact+me+about+anything!)](https://git.io/typing-svg)
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/calvin-lai-671971225/" target="_blank"> <img src='https://img.shields.io/badge/CalvinLai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo' height='40'></a>
+    <a href="https://www.reddit.com/user/imaweeaboo_" target="_blank"><img src='https://img.shields.io/badge/@imaweeaboo_-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit logo' height='40'></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/@noisy%236969%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt = "discord" height=40/></a>
+    <a href="#" target="_blank"><img src='https://img.shields.io/badge/@woyaochibingqiling-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram logo' height='40'></a>
+    <a href="#" target="_blank"><img src='https://img.shields.io/badge/@mrweeaboo_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter logo' height='40'></a>
+  </p>
+</div>
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
-
-### I'm Calvin Lai, a Cybersecurity & Digital Forensincs Student from Singapore
 
 #### Hobbies
 - 😂 Watching Anime
@@ -34,23 +42,6 @@
 
 <!-- ### Competitions
 - CodeForces -->
-
-## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>  Socials
-
-### Use these to Contact me for anything!
-
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/calvin-lai-671971225/" target="_blank"> <img src='https://img.shields.io/badge/CalvinLai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo' height='40'></a>
-    <a href="https://www.reddit.com/user/imaweeaboo_" target="_blank"><img src='https://img.shields.io/badge/@imaweeaboo_-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit logo' height='40'></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/@noisy%236969%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt = "discord" height=40/></a>
-    <a href="#" target="_blank"><img src='https://img.shields.io/badge/@woyaochibingqiling-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram logo' height='40'></a>
-    <a href="#" target="_blank"><img src='https://img.shields.io/badge/@mrweeaboo_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter logo' height='40'></a>
-  </p>
-  <img src="https://github.com/klevinn/klevinn/blob/main/assets/calling.gif">
-</div>
-
-<br>
 
 ##
 <p align="center">
