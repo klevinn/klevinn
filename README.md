@@ -28,8 +28,7 @@
 - 🌱 CodeForces, CodeWars, LeetCode
 
 #### Learning:
-- 🤔SQL (MySQL / sqlite)
-- 🤔C++
+- 🤔ReactJS
 - 🤔LOLCODE
 
 #### Role Model
