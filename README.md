@@ -30,17 +30,23 @@
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Skills & Experience
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> <br>
-
-</p>
-<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,py,sqlite,flask&perline=5" />
+  </a> <br/>
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klevinn&layout=compact&theme=dark&hide=html" alt="klevinn's top languages"></a>
 </p>
 
 <!-- ### Competitions
 - CodeForces -->
+
+<!-- ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Interested in
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,py,sqlite,flask&perline=5" />
+  </a>
+</p> -->
 
 ##
 <p align="center">
