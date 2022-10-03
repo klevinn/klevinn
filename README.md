@@ -1,31 +1,18 @@
-# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!)](https://git.io/typing-svg)
+# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome-To-My-Page!!)](https://git.io/typing-svg)
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
 ### I'm Calvin Lai, a Cybersecurity & Digital Forensincs Student from Singapore
 
-<div align="center">
-  <img src="https://github.com/klevinn/klevinn/blob/main/assets/profile.gif" align="right">
-</div>
-
-#### About Me
-- <a style="color:white;" href="https://codeforces.com/profile/klevinn">⚡ Actual Noobgrammer</a>
-- <a style="color:white;" href="https://steamcommunity.com/id/kirisakibestgirl/">⚡ Gamer</a>
-- <a style="color:white;" href="https://myanimelist.net/profile/klevinn">⚡ Manga Stan (Manga > Anime)</a>
-- ⚡ Programming is ACTUALLY fun
-- ⚡ Baller 🏀 
-- ⚡ Charlotte Hornets FTW (Lamelo W)
-
 #### Hobbies
 - 😂 Watching Anime
 - 😂 Reading Manga, Light Novels
 - 😂 Listening to Music
-- 😂 Rythm Games
-- 😂 RPG Games
-- 😂 Balling 🏀
+- 😂 RPG & Rythm Games
+- 😂 Basketball
 
 #### Currently Working On:
-- 🌱 CodeForces, CodeWars, LeetCode
+- 🌱 React Portfolio (Hiatus)
 
 #### Learning:
 - 🤔ReactJS
@@ -36,9 +23,6 @@
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Skills & Experience
 
-<div align="center">
-  <img src="https://github.com/klevinn/klevinn/blob/main/assets/coding.gif" align="right">
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
