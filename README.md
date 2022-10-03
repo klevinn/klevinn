@@ -53,8 +53,8 @@
 <br>
 
 ##
-[![GitHub Streak](https://streak-stats.demolab.com?user=klevinn&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=klevinn&theme=dark&hide_border=true" alt="klevinn's github stats"></a>
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox" alt="klevinn's github stats"></a>
 </p>
 
