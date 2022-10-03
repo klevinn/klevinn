@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+Calvin's+Profile!!;Cybersecurity+%26+Digital+Forensics+Student;Always+Learning;Contact+me+about+anything!)](https://git.io/typing-svg)
-
 <div align="center">
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+Calvin's+Profile!!;Cybersecurity+%26+Digital+Forensics+Student;Always+Learning;Contact+me+about+anything!" alt="Typing SVG" /></a>
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/calvin-lai-671971225/" target="_blank"> <img src='https://img.shields.io/badge/CalvinLai-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo' height='40'></a>
     <a href="https://www.reddit.com/user/imaweeaboo_" target="_blank"><img src='https://img.shields.io/badge/@imaweeaboo_-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit logo' height='40'></a>
