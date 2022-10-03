@@ -32,8 +32,8 @@
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klevinn&layout=compact&theme=dark&hide=html" alt="klevinn's top languages"></a>
 </p>
 
-### Competitions
-- CodeForces
+<!-- ### Competitions
+- CodeForces -->
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>  Socials
 
