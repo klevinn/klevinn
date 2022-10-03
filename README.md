@@ -1,4 +1,4 @@
-# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellooo!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellooo!!)](https://git.io/typing-svg)
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
@@ -25,12 +25,15 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> <br>
 
 </p>
 <p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klevinn&layout=compact&theme=dark&hide=html" alt="klevinn's top languages"></a>
 </p>
+
+### Competitions
+- CodeForces
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/addict.gif"/>  Socials
 
@@ -50,6 +53,7 @@
 <br>
 
 ##
+[![GitHub Streak](https://streak-stats.demolab.com?user=klevinn&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/klevinn"><img src="https://github-readme-stats.vercel.app/api?username=klevinn&count_private=true&show_icons=true&theme=gruvbox" alt="klevinn's github stats"></a>
 </p>
