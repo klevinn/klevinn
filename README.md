@@ -1,4 +1,4 @@
-# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome-To-My-Page!!)](https://git.io/typing-svg)
+# <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/waving.gif"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellooo!!)](https://git.io/typing-svg)
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
