@@ -20,10 +20,12 @@
 
 #### Currently Working On:
 - 🌱 React Portfolio (Hiatus)
+- 🌱 Learning Golang
 
 #### Learning:
 - 🤔ReactJS
 - 🤔LOLCODE
+- 🤔Golang
 
 #### Role Model
 - <a href="https://github.com/KJHJason">Jason Kuan (mutual)</a>
