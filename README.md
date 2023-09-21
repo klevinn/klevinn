@@ -11,6 +11,8 @@
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
+I'm Calvin and I have experience in both frontend and backend development. I have mainly used Python but am and will always be learning different languages to be used in my coding journey.
+
 #### Hobbies
 - Reading Manga, Light Novels
 - Listening to Music
