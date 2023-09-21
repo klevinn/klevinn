@@ -22,7 +22,6 @@
 
 #### Learning:
 - 🤔ReactJS
-- 🤔LOLCODE
 - 🤔Golang
 
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Skills & Experience
