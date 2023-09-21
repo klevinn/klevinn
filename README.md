@@ -12,10 +12,8 @@
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/about.gif"/> About Me
 
 #### Hobbies
-- Watching Anime
 - Reading Manga, Light Novels
 - Listening to Music
-- RPG & Rythm Games
 - Basketball
 
 #### Currently Working On:
