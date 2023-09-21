@@ -25,9 +25,6 @@
 - 🤔LOLCODE
 - 🤔Golang
 
-#### Role Model
-- <a href="https://github.com/KJHJason">Jason Kuan (mutual)</a>
-
 ## <img height="40" src="https://github.com/klevinn/klevinn/blob/main/assets/skills.gif"/> Skills & Experience
 
 <p align="center">
